@@ -9,3 +9,7 @@ build
 dist
 *.ipynb_checkpoints*
 Pipfile*
+examples/info_retrieval/101_ObjectCategories
+examples/info_retrieval/caltech-101/101_ObjectCategories.tar.gz
+examples/info_retrieval/caltech-101.zip
+examples/info_retrieval/caltech-101
